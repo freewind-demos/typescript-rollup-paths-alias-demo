@@ -1,4 +1,4 @@
-TypeScript Rollup Demo
+TypeScript Rollup Embed JSON Demo
 ======================
 
 Compile and package typescript files.

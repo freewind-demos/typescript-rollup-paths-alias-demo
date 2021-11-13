@@ -2,6 +2,7 @@
   "compilerOptions": {
     "strict": true,
     "moduleResolution": "node",
-    "declaration": true
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
   }
 }
