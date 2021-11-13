@@ -1,3 +1,3 @@
-import hello from './hello.json';
+import {hello} from '@@@/hello';
 
-console.log(hello)
+hello();

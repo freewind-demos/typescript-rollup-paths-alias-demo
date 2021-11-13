@@ -1,7 +1,7 @@
-TypeScript Rollup Embed JSON Demo
+TypeScript Rollup Paths Alias Demo
 ======================
 
-Compile and package typescript files.
+Handle typescript "paths".
 
 ```
 npm install
